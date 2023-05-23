@@ -1,0 +1,131 @@
+body{padding:0;
+    margin:0;
+    width: 100%; 
+    background-color: rgb(247, 242, 242);
+    font-family: sans-serif;
+    }
+/* titolo */
+.header{
+    width: 100%;
+    height: 75px;
+    background-color: white;
+    margin:0;
+
+}
+
+.h1-style{
+    display: inline-block;
+    vertical-align: center;
+
+}
+#img-style{
+    margin-top: 12.5px;    
+
+}
+/* fine titolo */
+/* bottoni */
+.button1{
+    border-radius: 5px;
+    border-color: rgb(64, 129, 226);
+    background-color: rgb(4, 129, 226);
+    color: white;
+    padding: 6px 10px;
+}
+.button2{
+    border-radius: 5px;
+    border-color: lightgray;
+    background-color: white;
+    color: lightgrey;
+    padding: 6px 10px;  
+}
+.spazio{
+    padding:2px;
+    background-color:rgb(247, 242, 242);
+}
+/* fine bottoni */
+/* blocco delle liste */
+.container{width: 1000px;
+    margin: auto;
+    margin-top: 40px;
+background-color:white;
+color: rgba(0, 0, 0, 0.74);
+border-radius: 15px;
+}
+
+#padding-main { 
+    padding: 15px; 
+    padding-left: 100;
+}
+.macro-titoli{
+    font-size: 30;
+    padding: 0;
+    margin: 0;
+}
+
+
+.inline-block{display: inline-block;}
+
+/* COLORE SPUNTE CERCHI */
+
+.cerchio-verde{
+                color:rgb(7, 182, 7);
+                background-color: white;
+                border:2px solid rgb(7, 182, 7) ;
+                border-radius: 50%;
+                width: 20px;
+                padding: 1 3;    
+}
+.cerchio-rosso{
+                color:rgba(255, 0, 0, 0.479);
+                background-color: white;
+                border:2px solid rgba(255, 0, 0, 0.479);
+                border-radius: 50%;
+                width: 20px;
+                padding: 1 3;    
+}
+
+
+/* COLORE TAGS */
+
+.tag-editorial{
+            border-radius: 15px;
+            border-color: rgb(64, 129, 226);
+            background-color: rgb(4, 129, 226);
+            color: white;
+            padding: 6px 10px;
+            font-size: 12px;
+}
+.tag-q1{
+            border-radius: 15px;
+            border-color: rgb(68, 6, 119);
+            background-color: rgb(68, 6, 119);
+            color: white;
+            padding: 6px 10px;
+            font-size: 12px;
+}
+.tag-recruiting{border-radius: 15px;
+            border-color: rgb(19, 167, 167);
+            background-color: rgb(19, 167, 167);
+            color: white;
+            padding: 6px 10px;
+            font-size: 12px;}
+
+.tag-mobile{border-radius: 15px;
+            border-color: orange;
+            background-color: orange;
+            color: white;
+            padding: 6px 10px;
+            font-size: 12px;}
+.tag-website{border-radius: 15px;
+            border-color: rgb(245, 116, 137);
+            background-color: rgb(245, 116, 137);
+            color: white;
+            padding: 6px 10px;
+            font-size: 12px;}
+.tag-sales{border-radius: 15px;
+            border-color: yellowgreen;
+            background-color: yellowgreen;
+            color: white;
+            padding: 6px 10px;
+            font-size: 12px;}
+
