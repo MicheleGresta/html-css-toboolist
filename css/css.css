@@ -54,7 +54,7 @@ color: rgba(0, 0, 0, 0.74);
 border-radius: 15px;
 }
 
-#padding-main { 
+.padding-main { 
     padding: 15px; 
     padding-left: 100;
 }
